@@ -1,6 +1,6 @@
 # Word Cloud Spotify
 ````
-Palavras mais usadas nas músicas mais tocadas.
+O que as musicas Brasileiras mais fala?
 ````
 ![wordCloudSpotify](https://github.com/FranciscoWallison/wordCloudSpotify/blob/main/image/nuvem_palavras.png)
 
